@@ -133,8 +133,8 @@ I actively contribute to WordPress by improving Core, developing plugins, fixing
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsayan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayan&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=iamsayan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamsayan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
