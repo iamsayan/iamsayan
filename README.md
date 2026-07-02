@@ -1,24 +1,192 @@
-<h1 align="center">Hi 👋, I'm Sayan Datta</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsayan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsayan" /> </p>
+# Hi there 👋 I'm Sayan Datta
 
-<p align="left"> <a href="https://twitter.com/im_sayaan" target="blank"><img src="https://img.shields.io/twitter/follow/im_sayaan?logo=twitter&style=for-the-badge" alt="im_sayaan" /></a> </p>
+### Full Stack Developer • WordPress • Next.js 16 • Laravel  Core Contributor
 
-- 💬 Ask me about **WordPress, Gutenberg**
+Building scalable web applications, modern headless CMS solutions, developer tools, and open-source software.
 
-- 📫 How to reach me **iamsayan@protonmail.com**
-
-- ⚡ Fun fact **My perfect day would start with code**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/im_sayaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_sayaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meetsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetsayan" height="30" width="40" /></a>
-<a href="https://fb.com/iamsayaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamsayaan" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iamsayan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/iamsayan?label=Followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-red?logo=github" />
+  <img src="https://img.shields.io/badge/WordPress-Core%20Contributor-21759B?logo=wordpress&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsayan&show_icons=true&locale=en" alt="iamsayan" /></p>
+---
+
+# 👨‍💻 About Me
+
+I'm a **Full Stack Developer** from **India** passionate about building scalable web applications, headless CMS solutions, developer tools, and modern user experiences.
+
+Currently, I'm working at **TeamUpdraft**, where I develop and maintain production-ready applications using **Laravel**, **PHP**, and **WordPress**. My work primarily focuses on **UpdraftCentral**, where I build new features, improve existing functionality, and integrate products such as **UpdraftPlus**, **WP-Optimize**, and other Updraft plugins into the centralized management platform to deliver a seamless user experience.
+
+Over the years I've built everything from WordPress plugins and WooCommerce extensions to large-scale Laravel applications, high-performance Next.js websites, REST APIs, and developer tooling.
+
+I also enjoy working with modern **Headless CMS** platforms such as **Cockpit CMS** and **Strapi**, integrating them with **Next.js 16** to create fast, SEO-friendly, and content-driven applications.
+
+---
+
+# 🚀 What I Do
+
+- ⚙️ Build scalable backend applications with PHP
+- 🌐 Develop modern websites using Next.js 16 & React
+- 📰 Build Headless CMS solutions with Cockpit CMS & Strapi
+- 🔌 Create WordPress plugins & WooCommerce extensions
+- 📦 Develop reusable Composer packages & developer tools
+- 🚀 Improve application performance & developer experience
+- ☁️ Deploy applications using modern cloud platforms
+- 🤖 Explore AI-powered workflows & automation
+
+---
+
+# 🌟 Open Source
+
+I love contributing to open source and giving back to the community.
+
+### 🏆 WordPress Contributions
+
+- ⭐ Core Contributor
+- 🔌 Plugin Developer
+- 🌍 Translation Contributor
+- ✍️ Translation Editor
+
+I actively contribute to WordPress by improving Core, developing plugins, fixing bugs, reviewing translations, and helping improve the developer ecosystem.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,ts,js,html,css,dart,python,bash" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+</p>
+
+### CMS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" height="48" alt="WooCommerce" />
+  <img src="https://cdn.simpleicons.org/cockpit/60A5FA" width="48" height="48" alt="Cockpit CMS" />
+  <img src="https://cdn.simpleicons.org/strapi/4945FF" width="48" height="48" alt="Strapi" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" width="48" height="48" alt="Appwrite" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,cloudflare,vercel,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Expertise
+
+- Laravel
+- PHP
+- Next.js 16
+- React
+- TypeScript
+- WordPress
+- WooCommerce
+- Cockpit CMS
+- Strapi
+- REST APIs
+- Tailwind CSS
+- Flutter
+- MySQL
+- MongoDB
+- Redis
+- Docker
+- Cloudflare
+- GitHub Actions
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsayan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayan&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=iamsayan&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsayan&theme=github_dark" />
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- AI & LLM Applications
+- Flutter
+- System Design
+- Cloud Architecture
+- Modern Full Stack Development
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/iamsayan">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/meetsayan">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/im_sayaan">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://facebook.com/iamsayaan">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
+</a>
+
+</p>
+
+📧 **Email:** **hello@sayandatta.co.in**
+
+---
+
+<div align="center">
+
+### 💡 *"Building software that empowers people and developers."*
+
+Always learning • Always building • Always improving 🚀
+
+</div>
