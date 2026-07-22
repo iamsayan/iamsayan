@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Sayan Datta
 
-### Full Stack Developer • WordPress • Next.js 16 • Laravel  Core Contributor
+### Full Stack Developer • WordPress • Next.js 16 • Laravel • WP Core Contributor
 
 Building scalable web applications, modern headless CMS solutions, developer tools, and open-source software.
 
